@@ -1,2 +1,2 @@
 # Local Library Portal
-Local Library website using Django
+Local Library website using Django as a part of MDN Tutorials.
